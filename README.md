@@ -1,5 +1,6 @@
 `Usage: Message_With_Ping.py <text> <target>`
 
-This is a message sending tool to send messages over the Internet Control Message Protocol(ICMP).
-You can easily read the messages using a tool like TShark or Wireshark.
-Making message based comunication possible over ICMP.
+This is a message sending tool to send messages over the Internet Control Message Protocol(ICMP). \
+You can easily read the messages using a tool like TShark or Wireshark. \
+Making message based comunication possible over ICMP. \
+Before you ask me why... i honestly dont know why i made this. 
