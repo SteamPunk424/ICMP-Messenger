@@ -1,3 +1,5 @@
+#git clone repo\
+`git clone https://github.com/SteamPunk424/ICMP-Messenger`\
 `cd ICMP-Messenger`\
 #create virtual env with python3\
 `python3 -m venv venv`\
