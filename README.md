@@ -4,7 +4,7 @@
 `#activate virtual env`\
 `source venv/bin/activate`\
 `#install requirements`\
-`pip install -r requirements.txt`\
+`pip install -r requirements.txt`
 
 `Usage: Message_With_Ping.py <text> <target>`
 
